@@ -1,0 +1,17 @@
+*{
+    font-family: system-ui,sans-serif;
+    outline : 1px solid red;
+}
+header{
+    display:flex;
+}
+.bar{
+    display:flex;
+}
+.a1{
+    float:right;
+    padding:20px;
+}
+h2{
+    text-align: center;
+}
